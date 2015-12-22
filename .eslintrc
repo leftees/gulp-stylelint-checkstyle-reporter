@@ -3,8 +3,6 @@
   "rules": {
     "strict": 0
   }
-}
-{
   "extends": "meetic",
   "env": {
     "node": true
